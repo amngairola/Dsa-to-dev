@@ -5,8 +5,8 @@
 ## Data Structures and Algorithms (DSA)
 
 ### Courses and Tutorials Programming & developement
-- [Kunal]([https://www.coursera.org/specializations/algorithms](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=teEcFh0lt1pTFboI))
-- [striver]([https://www.coursera.org/specializations/algorithms](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=PPPrmnZ_VarUkzcX))
+- [Kunal](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=teEcFh0lt1pTFboI)
+- [striver](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=PPPrmnZ_VarUkzcX)
 - [freeCodeCamp - Data Structures and Algorithms](https://www.freecodecamp.org/learn)
 - [pthon]([https://www.freecodecamp.org/learn](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s))
 
